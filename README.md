@@ -1,4 +1,4 @@
-# Live Site link : https://shubhamd32.github.io/pricingPanelResponsive/index.html (Hosted on Github pages)
+# [Live Site Link](https://shubhamd32.github.io/pricingPanelResponsive/index.html)
 
 This is a **responsive pricing panel component** designed to be reusable for a larger site. Uses **flexbox** to give a responsive view between mobile and desktop versions.
 Benchmark set at 900px for the change.
